@@ -41,8 +41,9 @@ pip  install  langchain-community  langchain-chroma  langchain-ollama
 ### 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
-cd  <repository_name>
+git clone https://github.com/lynah2/Python-Documentation-Query-System-with-RAG.git
+cd Python-Documentation-Query-System-with-RAG
+
 ```
 
 ### 2. Install dependencies:
@@ -70,4 +71,4 @@ python query_system.py
 ```
 
 Example:
-![Alt text](images\query_example.png)
+![Alt text](images/query_example.png)
